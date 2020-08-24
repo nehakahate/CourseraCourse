@@ -1,0 +1,27 @@
+body {
+	background-color:#DCDCDC;
+}
+h1 {
+	
+	font-family: 'Acme', serif;
+	font-weight: bold;
+	margin: 15px;
+	color: white;
+	font-size: 35px;
+}
+
+ .col-md{
+	background-color:#7B68EE;
+	font-weight: bold;
+	
+}
+
+#menu {
+	font-family: 'Acme', cursive, serif;
+	font-weight: bold;
+	font-size: 40px;
+	color:#7B68EE;
+}
+.container {
+	margin-top: 40px;
+}
