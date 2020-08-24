@@ -16,6 +16,22 @@ h1 {
 	
 }
 
+.navbar-nav{
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.menu-item{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
+
 #menu {
 	font-family: 'Acme', cursive, serif;
 	font-weight: bold;
